@@ -22,6 +22,7 @@
    "unique": 1
   },
   {
+   "description": "Telnyx Fax API Application ID",
    "fieldname": "connection_id",
    "fieldtype": "Data",
    "in_list_view": 1,
@@ -30,6 +31,7 @@
   },
   {
    "default": "+1-",
+   "description": "Only enter digits no punctuation example 8457585200",
    "fieldname": "from_fax_number",
    "fieldtype": "Phone",
    "in_list_view": 1,
@@ -38,6 +40,7 @@
    "reqd": 1
   },
   {
+   "description": "Telnyx User API Key",
    "fieldname": "api_key",
    "fieldtype": "Data",
    "label": "API Key",
@@ -46,7 +49,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2024-11-20 09:30:35.645594",
+ "modified": "2025-01-14 07:28:36.813762",
  "modified_by": "Administrator",
  "module": "Fax",
  "name": "Fax Sender",
