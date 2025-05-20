@@ -1,7 +1,7 @@
 [project]
 name = "fax"
 authors = [
-    { name = "ItGetIt", email = "fax@hvgeek.com"}
+    { name = "ItGetIt", email = "apps@itgetit.com"}
 ]
 description = "A Faxing System"
 requires-python = ">=3.10"
