@@ -1,8 +1,8 @@
 app_name = "fax"
 app_title = "Fax"
-app_publisher = "ItGetIt"
+app_publisher = "IT get it!"
 app_description = "A Faxing System"
-app_email = "fax@hvgeek.com"
+app_email = "apps@itgetit.com"
 app_license = "mit"
 
 # Apps
