@@ -1,6 +1,6 @@
 # Privacy Policy for Fax
 
-_Last Updated: [Insert Date]_
+_Last Updated: 5/27/2025
 
 Thank you for using **Fax**, a custom app available through the Frappe Cloud Marketplace.
 
